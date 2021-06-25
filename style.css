@@ -43,3 +43,89 @@ p{
     padding-top: 120px;
     padding-left: 300px;
 }
+.half-width{
+    width: 35%;
+    margin: 5%;
+    float: left;
+}
+.half-width img{
+    width: 100%;
+    padding-left: 100px;
+}
+.dream-pera{
+    padding-top: 120px;
+    padding-left: 80px;
+}
+.biography-section{
+    background-image: url(images/biography-bg.png);
+    height: 750px;
+    background-position: left;
+    background-size: 1350px;
+}
+.works{
+    width: 25%;
+    margin: 1.3%;
+    float: left;
+}
+.works img{
+    width: 100%;
+}
+.work-frem{
+    margin-top: 40px;
+    margin-left: 212px;
+}
+.my-work h2{
+    text-align: center;
+}
+.my-work{
+    margin-top: 55px;
+    background-image: url(images/latest-work-bg.png);
+    height: 410px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.clint-review{
+    text-align: center;
+}
+.clint-review h2{
+    margin: 45px;
+}
+.clint-review h4{
+    font-weight: 600;
+    margin-bottom: -17px;
+}
+.clint-review #clint-title{
+    font-size: 10px;
+    line-height: 3.3;
+}
+.clint-review #comment{
+    width: 420px;
+    padding-left: 460px;
+}
+.contact{
+    background-color: rgb(224, 50, 137);
+    color: white;
+    text-align: center;
+    width: 500px;
+    height: 116px;
+    padding: 31px;
+    border-radius: 10px;
+    margin-left: 388px;
+    margin-bottom: 50px;
+}
+.contact h6{
+    font-weight: 400;
+}
+.contact h3{
+    font-weight: 500;
+}
+footer p{
+    text-align: center;
+    font-size: 14px;
+}
+footer{
+    background-image: url(images/footer-bg.png);
+    height: 600px;
+    background-position: left;
+}
